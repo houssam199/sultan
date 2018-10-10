@@ -1,0 +1,6 @@
+token=NDk5NTM3OTQ4ODc5MDkzNzgx.Dp9ugg.SNRmAxI9vkaOlghgnkR7K-vNwUU
+owner=464046823162511400
+prefix=Su
+game=Tybe Suhelp
+stayinchannel=true
+songinstatus=false
